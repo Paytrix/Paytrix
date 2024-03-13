@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paytrix
+- 👋 Hi, I’m Kilian
 
 <!---
 Paytrix/Paytrix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
